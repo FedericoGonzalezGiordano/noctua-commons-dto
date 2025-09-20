@@ -1,0 +1,3 @@
+com\noctua\commons\dto\PlanDto.class
+com\noctua\commons\dto\TenantDto.class
+com\noctua\commons\enums\TenantStatus.class
